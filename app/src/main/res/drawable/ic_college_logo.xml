@@ -1,0 +1,148 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="300dp"
+    android:viewportWidth="256"
+    android:viewportHeight="300">
+
+    <!-- Outer Shield Border -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="3.5"
+        android:pathData="M 128,14 C 150,14 175,26 198,34 C 208,37 218,34 224,44 C 230,54 225,66 226,78 C 228,102 242,126 238,150 C 233,178 214,204 194,224 C 172,246 148,266 128,284 C 108,266 84,246 62,224 C 42,204 23,178 18,150 C 14,126 28,102 30,78 C 31,66 26,54 32,44 C 38,34 48,37 58,34 C 81,26 106,14 128,14 Z" />
+
+    <!-- Inner Shield Inset -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="1.8"
+        android:pathData="M 128,22 C 148,22 170,33 192,40 C 200,43 210,41 216,50 C 220,58 217,68 218,78 C 220,98 232,120 228,142 C 224,168 208,192 188,212 C 168,232 146,252 128,268 C 110,252 88,232 68,212 C 48,192 32,168 28,142 C 24,120 36,98 38,78 C 39,68 36,58 40,50 C 46,41 56,43 64,40 C 86,33 108,22 128,22 Z" />
+
+    <!-- Five Stars on Crest Perimeter -->
+    <!-- Top Left Star -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 44,60 L 46.5,67 L 54,67 L 48,71.5 L 50,78.5 L 44,74 L 38,78.5 L 40,71.5 L 34,67 L 41.5,67 Z" />
+
+    <!-- Top Right Star -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 212,60 L 214.5,67 L 222,67 L 216,71.5 L 218,78.5 L 212,74 L 206,78.5 L 208,71.5 L 202,67 L 209.5,67 Z" />
+
+    <!-- Mid Left Star -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 40,195 L 42.5,202 L 50,202 L 44,206.5 L 46,213.5 L 40,209 L 34,213.5 L 36,206.5 L 30,202 L 37.5,202 Z" />
+
+    <!-- Mid Right Star -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 216,195 L 218.5,202 L 226,202 L 220,206.5 L 222,213.5 L 216,209 L 210,213.5 L 212,206.5 L 206,202 L 213.5,202 Z" />
+
+    <!-- Bottom Center Star -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 128,245 L 131,253 L 140,253 L 133,258.5 L 135.5,266.5 L 128,261.5 L 120.5,266.5 L 123,258.5 L 116,253 L 125,253 Z" />
+
+    <!-- Top Crescent and Star (Emblem of Pakistan & Academic Light) -->
+    <!-- Crescent -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 128,20 C 137,20 144,27 144,36 C 144,45 137,52 128,52 C 123,52 118,50 115,46 C 122,46 128,41 128,34 C 128,28 123,23 116,22 C 119.5,20.7 123.6,20 128,20 Z" />
+    <!-- Apex Star inside crescent -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 134,31 L 135.5,35 L 139.5,35 L 136.2,37.3 L 137.5,41.2 L 134,38.8 L 130.5,41.2 L 131.8,37.3 L 128.5,35 L 132.5,35 Z" />
+
+    <!-- Rays flanking the top crest -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="1.8"
+        android:pathData="M 96,30 L 110,34 M 92,37 L 108,39 M 94,44 L 109,44 M 160,30 L 146,34 M 164,37 L 148,39 M 162,44 L 147,44" />
+
+    <!-- Outer Circular Seal Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="3.2"
+        android:pathData="M 128,70 A 64,64 0 1,1 127.9,70 Z" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="1.5"
+        android:pathData="M 128,76 A 58,58 0 1,1 127.9,76 Z" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="2.0"
+        android:pathData="M 128,88 A 46,46 0 1,1 127.9,88 Z" />
+
+    <!-- Center Rehal / Book Stand -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 106,164 L 128,150 L 150,164 L 146,169 L 128,157 L 110,169 Z" />
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 112,148 L 128,160 L 144,148 L 148,152 L 128,167 L 108,152 Z" />
+
+    <!-- Open Book Pages (Al-Qur'an / Book of Knowledge) -->
+    <!-- Left Open Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#10367E"
+        android:strokeWidth="2.2"
+        android:pathData="M 128,145 C 116,139 100,136 86,140 C 85,133 87,126 90,120 C 104,117 118,122 128,129 Z" />
+    <!-- Left page text lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="1.2"
+        android:pathData="M 94,126 C 103,124 113,127 122,132 M 92,132 C 102,130 112,133 121,138" />
+
+    <!-- Right Open Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#10367E"
+        android:strokeWidth="2.2"
+        android:pathData="M 128,145 C 140,139 156,136 170,140 C 171,133 169,126 166,120 C 152,117 138,122 128,129 Z" />
+    <!-- Right page text lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="1.2"
+        android:pathData="M 134,132 C 143,127 153,124 162,126 M 135,138 C 144,133 154,130 164,132" />
+
+    <!-- Center Book spine seam -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="2"
+        android:pathData="M 128,129 L 128,146" />
+
+    <!-- Inner Seal Decorative Arcs & Stars -->
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 75,134 L 76.5,138 L 80.5,138 L 77.2,140.5 L 78.5,144.5 L 75,142 L 71.5,144.5 L 72.8,140.5 L 69.5,138 L 73.5,138 Z" />
+
+    <path
+        android:fillColor="#10367E"
+        android:pathData="M 181,134 L 182.5,138 L 186.5,138 L 183.2,140.5 L 184.5,144.5 L 181,142 L 177.5,144.5 L 178.8,140.5 L 175.5,138 L 179.5,138 Z" />
+
+    <!-- Bottom Scroll Decorative Ribbon for College Title -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="2.5"
+        android:pathData="M 64,212 C 90,224 166,224 192,212 C 196,218 190,226 182,228 C 154,236 102,236 74,228 C 66,226 60,218 64,212 Z" />
+
+    <!-- Bottom flourish swirls -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#10367E"
+        android:strokeWidth="2"
+        android:pathData="M 88,272 C 80,282 66,280 68,270 C 70,260 84,264 88,272 Z M 168,272 C 176,282 190,280 188,270 C 186,260 172,264 168,272 Z" />
+
+</vector>

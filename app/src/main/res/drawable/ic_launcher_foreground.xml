@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shield outline centered in 66dp safe zone (x: 21 to 87, y: 21 to 87) -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="1.8"
+        android:pathData="M 54,23 C 64,23 75,28 85,32 C 87,35 86,45 87,55 C 85,67 76,79 66,86 C 59,91 54,94 54,94 C 54,94 49,91 42,86 C 32,79 23,67 21,55 C 22,45 21,35 23,32 C 33,28 44,23 54,23 Z" />
+
+    <!-- Crescent and Star on top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,26 C 58,26 61,29 61,33 C 61,37 58,40 54,40 C 52,40 50,39 49,38 C 52,38 54,36 54,33 C 54,30 52,28 49,27 C 50.5,26.3 52.2,26 54,26 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 56.5,31 L 57.2,32.8 L 59.2,32.8 L 57.5,33.9 L 58.1,35.8 L 56.5,34.6 L 54.9,35.8 L 55.5,33.9 L 53.8,32.8 L 55.8,32.8 Z" />
+
+    <!-- Center Circle Seal -->
+    <path
+        android:fillColor="#0D254C"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="1.4"
+        android:pathData="M 54,44 A 20,20 0 1,1 53.9,44 Z" />
+
+    <!-- Open Book (Al-Qur'an / Book of knowledge) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="1.0"
+        android:pathData="M 54,64 C 48,61 41,60 35,62 C 34.5,59 35.5,56 37,53 C 43,52 49,54 54,58 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="1.0"
+        android:pathData="M 54,64 C 60,61 67,60 73,62 C 73.5,59 72.5,56 71,53 C 65,52 59,54 54,58 Z" />
+    <!-- Rehal stand -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 44,72 L 54,66 L 64,72 L 62,74 L 54,69 L 46,74 Z" />
+
+    <!-- Five Stars -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 28,40 L 29.5,43 L 32.5,43 L 30,45 L 31,48 L 28,46 L 25,48 L 26,45 L 23.5,43 L 26.5,43 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 80,40 L 81.5,43 L 84.5,43 L 82,45 L 83,48 L 80,46 L 77,48 L 78,45 L 75.5,43 L 78.5,43 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 54,82 L 55.5,85 L 58.5,85 L 56,87 L 57,90 L 54,88 L 51,90 L 52,87 L 49.5,85 L 52.5,85 Z" />
+
+</vector>

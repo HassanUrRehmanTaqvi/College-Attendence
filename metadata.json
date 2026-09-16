@@ -1,0 +1,6 @@
+{
+  "name": "گورنمنٹ ایسوسی ایٹ کالج مخدوم رشید ملتان — اساتذہ حاضری نظام",
+  "description": "گورنمنٹ ایسوسی ایٹ کالج مخدوم رشید ملتان کے اساتذہ کے لیے خودکار، آف لائن اور محفوظ حاضری و رابطہ نظام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
